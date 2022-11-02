@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! 👋
 
 <h3 align="center">My name is Leandro, I am currently studying programming in some languages ​​such as; CSharp, C++ Python and Java, in the future I will study Computer Engineering. As a hobby, I like to play CS:S with friends and create Arcade-style games.</h3>
 
