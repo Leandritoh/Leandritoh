@@ -11,9 +11,11 @@
 ![Leandritoh's Most Used Lenguaje](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandritoh&theme=blue-green) <br>
 
 {
+
 * 💣 `I’m`: **15 years old**,
 * 🌱 `I’m currently learning`: **Ruby**,
 * 🧉 `I’m` **Mate Drinker**  ,
 * ⛏️ `I’m`: **Minecraft Developer**  
+
 }  
 
