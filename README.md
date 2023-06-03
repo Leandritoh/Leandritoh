@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-<h3 align="center"My name is Leandro, I'm a Minecraft server developer, I studied web development and Python, and I'm currently studying Ruby to work in cybersecurity and then study systems engineering. I love drinking mate, I'm from Uruguay.</h3>
+<h3 align="center"My name is Leandro, Im a Minecraft server developer, I studied web development and Python, and Im currently studying Ruby to work in cybersecurity and then study systems engineering. I love drinking mate, Im from Uruguay.</h3>
 
 
 
