@@ -1,10 +1,10 @@
-### Hey there! 👋
+📌 My name is Leandro, i'm from Uruguay**.
 
-<h3 align="center">My name is Leandro, I'm a Minecraft server developer, I studied web development and Python, and I'm currently studying Ruby to work in cybersecurity and then study systems engineering. I love drinking mate, I'm from Uruguay.h3>
+## 🛠 My Stack
 
+![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![RUBY](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
+## 📊 My GitHub's Stats
 
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+![Leandritoh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leandritoh&show_icons=true&title_color=fff&bg_color=90,3a0943,000&text_color=fff&icon_color=c435e8&hide_border=true) (https://github-readme-stats.vercel.app/api/top-langs/?username=Leandritoh&theme=blue-green)
