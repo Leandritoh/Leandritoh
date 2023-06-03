@@ -17,7 +17,7 @@
 * 💣 `I’m`: **15 years old**,
 * 🌱 `I’m currently learning`: **Ruby**,
 * 🧉 `I’m` **Mate Drinker**  ,
-* ⛏️ `I’m`: **Minecraft Developer**  
+* ⛏️ `I’m`: **Minecraft Developer**   ,
 
 }  
 
