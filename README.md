@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-<h3 align="center">My name is Leandro, I am currently studying programming in some languages ​​such as; CSharp, Python, Java and Ruby. in the future I will study Computer Engineering. As a hobby, I like to play CS:GO with friends and create Arcade-style games.</h3>
+<h3 align="center"My name is Leandro, I'm a Minecraft server developer, I studied web development and Python, and I'm currently studying Ruby to work in cybersecurity and then study systems engineering. I love drinking mate, I'm from Uruguay.</h3>
 
 
 
