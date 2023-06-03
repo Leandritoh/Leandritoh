@@ -10,6 +10,8 @@
 ![Leandritoh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leandritoh&show_icons=true&title_color=fff&bg_color=90,3a0943,000&text_color=fff&icon_color=c435e8&hide_border=true) <br>
 ![Leandritoh's Most Used Lenguaje](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandritoh&theme=blue-green) <br>
 
+
+
 {
 
 * 💣 `I’m`: **15 years old**,
