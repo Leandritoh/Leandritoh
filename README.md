@@ -20,7 +20,7 @@
 * 🌱 `I’m currently learning`: **Ruby**,
 * 🧉 `I’m` **Mate Drinker**  ,
 * ⛏️ `I’m`: **Minecraft Developer**   ,
-* 🇳🇱  `I’m`: **Fan of the National Football Club.**
+* 🇳🇱  `I’m`: **Hincha del Club Nacional de Football.**
 
 }  
 
